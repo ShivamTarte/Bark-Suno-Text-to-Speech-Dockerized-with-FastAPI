@@ -10,9 +10,9 @@ One notable feature of the project is the cache mechanism implemented to enhance
 
 Overall, the "Bark Suno" project provides a user-friendly and efficient solution for generating audio outputs from text inputs. The combination of Docker containerization, FastAPI interface, and caching capabilities creates a robust and scalable platform. Users can leverage the text-to-speech functionality by simply sending their desired text and audio specifications, and the system will swiftly process the request to generate the corresponding audio output. This project showcases the power of containerization and modern web frameworks, offering a practical and versatile solution for text-to-speech applications.
 
-OUTPUT-LISTEN AUDIO WHERE INPUT IS GIVEN AS "I AM ASHWATAMA,DESTROYER OF EVIL PEOPLE"
+OUTPUT-Listen output.wav file where input text was given as "I AM ASHWATAMA,DESTROYER OF EVIL PEOPLE"
 
-VERY VERY IMPORTANT FOR BUILDING------
+VERY VERY IMPORTANT FOR BUILDING------------------------------------------------------------------------------------------------------------------------------------
 
 FOR CACHE
 DOWNLOAD FILES FROM THIS LINK-https://huggingface.co/suno/bark/tree/main
