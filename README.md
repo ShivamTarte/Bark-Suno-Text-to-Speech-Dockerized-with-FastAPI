@@ -12,7 +12,7 @@ Overall, the "Bark Suno" project provides a user-friendly and efficient solution
 
 OUTPUT-LISTEN AUDIO WHERE INPUT IS GIVEN AS "I AM ASHWATAMA,DESTROYER OF EVIL PEOPLE"
 
-VERY VERY IMPORTANT------
+VERY VERY IMPORTANT FOR BUILDING------
 
 FOR CACHE
 DOWNLOAD FILES FROM THIS LINK-https://huggingface.co/suno/bark/tree/main
