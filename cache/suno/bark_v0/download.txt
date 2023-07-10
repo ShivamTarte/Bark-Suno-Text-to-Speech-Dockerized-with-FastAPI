@@ -1,1 +1,1 @@
-FOR CACHE DOWNLOAD FILES FROM THIS LINK-https://huggingface.co/suno/bark/tree/main
+FOR CACHE DOWNLOAD FILES FROM THIS LINK-https://huggingface.co/suno/bark/tree/main and srore in bark_v0 folder
