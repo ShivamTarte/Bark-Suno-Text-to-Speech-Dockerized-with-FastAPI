@@ -1,0 +1,1 @@
+FOR CACHE DOWNLOAD FILES FROM THIS LINK-https://huggingface.co/suno/bark/tree/main
